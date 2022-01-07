@@ -1,0 +1,1 @@
+<view><child vue-id="2e637200-1" msg="{{title}}" data-event-opts="{{[['^childEvent',[['sayHello']]]]}}" bind:childEvent="__e" bind:__l="__l"></child></view>

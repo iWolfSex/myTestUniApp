@@ -1,0 +1,1 @@
+<view><text>我是组件</text><view>{{msg}}</view><view><button data-event-opts="{{[['tap',[['sayHelloToFather',['$event']]]]]}}" bindtap="__e">子向父组件传递数据</button></view></view>
